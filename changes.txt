@@ -1,0 +1,13 @@
+.htaccess additional file
+hide the folder for no index file
+>>https://tecadmin.net/disable-directory-listing-apache/
+>>https://portswigger.net/web-security/file-path-traversal
+csrf token for forms 
+>>https://riptutorial.com/php/example/19314/cross-site-request-forgery
+>>https://www.netsparker.com/blog/web-security/csrf-cross-site-request-forgery/
+same origin policy
+How Can I Prevent Direct URL Access to My Files from Outside My Website?
+>>https://simplefilelist.com/how-can-i-prevent-direct-url-access-to-my-files-from-outside-my-website/
+
+General security
+>>https://www.acunetix.com/websitesecurity/php-security-5/
